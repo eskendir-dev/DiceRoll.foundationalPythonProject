@@ -1,4 +1,5 @@
 # DiceRoll.foundationalPythonProject
+
 My foundational Python project: a simple console-based dice roll simulator demonstrating reliable input handling, basic looping, and the standard 'random' module.
 
 ## What I've Learned
@@ -9,10 +10,13 @@ My foundational Python project: a simple console-based dice roll simulator demon
 ## How to Run the Script
 
 * Python 3 installed on your machine.
-1. Download the project file (e.g., dice_simulator.py).
+  
+1. Download the project file.
+   
 2. Open your terminal or command prompt.
+   
 3. Execute the script using the following command:
-
+   
 ``` bash
 
-python dice_simulator.py
+python DiceRoll.py
